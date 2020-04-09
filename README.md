@@ -1,1 +1,2 @@
-# sirju-karki
+OS PROJECT 
+QUES. 
